@@ -13,7 +13,7 @@
 ```console
 
 # clone the repo
-$ git clone https://github.com/muradpontes/bartholomeusAI.git
+$ git clone https://github.com/ohhhio/bartholomeusAI.git
 
 # change the working directory to bartholomeusAI
 $ cd bartholomeusAI
